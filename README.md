@@ -7,5 +7,4 @@ I'm Gustavo, I live in Brasilia - BR
 <div>
 <a href="https://github.com/Gstvo-Oliveira">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gstvo-Oliveira"/>
-<img height="180em" src="https://github.com/Gstvo-Oliveira/github-readme-stats"/>
 </div>
