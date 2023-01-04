@@ -9,6 +9,8 @@ I'm Gustavo, I live in Brasilia - BR
 <img height ="180em" width = "400px" src="https://github-readme-stats.vercel.app/api?username=Gstvo-Oliveira&?theme=tokyonight"/>
 <img height ="180em" width = "400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gstvo-Oliveira&layout=compact&?theme=tokyonight"/>
 </div>
+  
+  ##
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
