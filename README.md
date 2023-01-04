@@ -3,7 +3,7 @@ Olá 👋
 Eu sou o Gustavo, moro em Brasília - BR
 
 - 🌱 Sou Técnico em Desenvolvimento de Web, Desenvolvedor Fullstack.
-- 🏅 Especializada em aprender com meus erros LOL!
+- 🏅 Especializado em aprender com meus erros HAHA!
 
 <div>
 <a href="https://github.com/Gstvo-Oliveira">
@@ -15,7 +15,7 @@ Eu sou o Gustavo, moro em Brasília - BR
 
 <h2 style="text-align:center">Techs</h2>  
 
-<div style="text-align:center> 
+<div style="text-align:center;margin-bottom:40px;padding-bottom:20px;border-bottom: 1px solid #FFF8"> 
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
@@ -27,4 +27,4 @@ Eu sou o Gustavo, moro em Brasília - BR
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green"/>
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"/>
-</div>
+  </div>
