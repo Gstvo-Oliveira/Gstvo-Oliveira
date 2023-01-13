@@ -4,14 +4,8 @@ Eu sou o Gustavo, moro em Brasília - BR
 
 - 🌱 Sou Técnico em Desenvolvimento de Web, Desenvolvedor Fullstack.
 - 🏅 Especializado em aprender com meus erros HAHA!
-
-<div>
-<a href="https://github.com/Gstvo-Oliveira">
-<img height ="180em" width = "400px" src="https://github-readme-stats.vercel.app/api?username=Gstvo-Oliveira&?theme=tokyonight"/>
-<img height ="180em" width = "400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gstvo-Oliveira&layout=compact&?theme=tokyonight"/>
-</div>
   
-  ##
+##
 
 <h2 style="text-align:center">Techs</h2>  
 
