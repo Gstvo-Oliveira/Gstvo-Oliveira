@@ -4,8 +4,6 @@ Eu sou o Gustavo, moro em Brasília - BR
 
 - 🌱 Sou Técnico em Desenvolvimento de Web, Desenvolvedor Fullstack.
 - 🏅 Especializado em aprender com meus erros HAHA!
-  
-##
 
 <h2 style="text-align:center">Techs</h2>  
 
